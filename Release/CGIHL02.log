@@ -1,0 +1,15 @@
+﻿  Mesh.cpp
+  P01-319239748.cpp
+  Shader.cpp
+  Window.cpp
+C:\Users\Lap\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documents\Visual Studio 2022\CGL02\CGIHL02\CGIHL02\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\Lap\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documents\Visual Studio 2022\CGL02\CGIHL02\CGIHL02\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 161 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  CGIHL02.vcxproj -> C:\Users\Lap\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documents\Visual Studio 2022\CGL02\CGIHL02\Release\CGIHL02.exe
